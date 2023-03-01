@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Pu Yang"
   avatar           : "profile.png"
-  bio              : "Also: 冯韫禛<p>PhD student at the School of Mathematical Science, PKU."
+  bio              : "Also: 杨埔<p>PhD student at School of Mathematical Sciences, PKU."
   location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    :  # "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
