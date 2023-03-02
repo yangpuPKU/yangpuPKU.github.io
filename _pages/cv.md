@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* **Chongqing Nankai Middle School**
-  2021-2017
-* **School of Mathematical Sciences, Peking University**
-  B.S. in Mathematics, 2017 - 2021
-* **School of Mathematical Sciences, Peking University**
-  Ph.D. in Computational Mathematics, 2021 - Present
+* **Chongqing Nankai Middle School**<br>
+  2021-2017<br>
+* **School of Mathematical Sciences, Peking University**<br>
+  B.S. in Mathematics, 2017 - 2021<br>
+* **School of Mathematical Sciences, Peking University**<br>
+  Ph.D. in Computational Mathematics, 2021 - Present<br>
 
 Work experience
 ======
