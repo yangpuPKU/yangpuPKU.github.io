@@ -11,49 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Chongqing Nankai Middle School**
+  2021-2017
+* **School of Mathematical Sciences, Peking University**
+  B.S. in Mathematics, 2017 - 2021
+* **School of Mathematical Sciences, Peking University**
+  Ph.D. in Computational Mathematics, 2021 - Present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2021: AI Algorithm Internship
+  * ByteDance
+  * Duties included: AI algorithm design
+  * I am primarily responsible for designing algorithms for audio fingerprinting, which involves extracting fingerprint features, searching through a speech library, and parallel acceleration, among other tasks. My team utilizes contrastive learning and propose a new feature extraction model that is more suitable for audio data, resulting in faster retrieval speeds and higher accuracy.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computing Skills: C++, Python (PyTorch), Matlab, LATEX.
+* Numerical Algorithms: Numerical Methods, Optimization.
+* Mathematical Skills: Partial Differential Equation, Probability Theory.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
