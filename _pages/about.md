@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Student at the School of Mathematical Sciences, Peking University, where I work with Prof. Bing Dong. I am generally interested in sampling, reconstruction and downstream task in medical imaging. 
+I am a PhD Student at the School of Mathematical Sciences, Peking University, where I work with Prof. Bin Dong. I am generally interested in sampling, reconstruction and downstream task in medical imaging. 
