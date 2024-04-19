@@ -1,12 +1,12 @@
 ---
-title: "L2SR: Learning to Sample and Reconstruct for Accelerated MRI"
+title: "L2SR: Learning to Sample and Reconstruct for Accelerated MRI via Reinforcement Learning"
 collection: publications
 permalink: /publication/L2SR
-date: 2022-12-05
-venue: 'Arxiv'
-paperurl: 'https://arxiv.org/abs/2212.02190'
-citation: 'Yang, Pu, and Bin Dong. "L2SR: Learning to Sample and Reconstruct for Accelerated MRI." arXiv preprint arXiv:2212.02190 (2022).'
+date: 2024-4-18
+venue: 'Inverse Problem'
+paperurl: 'https://iopscience.iop.org/article/10.1088/1361-6420/ad3b34'
+citation: 'Yang, Pu, and Bin Dong. "L2SR: Learning to Sample and Reconstruct for accelerated MRI via reinforcement learning." Inverse Problems (2024).'
 ---
-[The latest version](https://yangpupku.github.io/files/publications/Learning%20to%20Sample%20and%20Reconstruction.pdf)
+[Arxiv version](https://arxiv.org/abs/2212.02190)
 
-Recommended citation: Yang, Pu, and Bin Dong. "L2SR: Learning to Sample and Reconstruct for Accelerated MRI." arXiv preprint arXiv:2212.02190 (2022).
+Recommended citation: Yang, Pu, and Bin Dong. "L2SR: Learning to Sample and Reconstruct for accelerated MRI via reinforcement learning." Inverse Problems (2024).
