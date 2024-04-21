@@ -2,6 +2,7 @@
 title: "A Tale of Tails: Model Collapse as a Change of Scaling Laws"
 collection: publications
 permalink: /publication/A_Tale_of_Tails
+excerpt: 'Under review as a conference paper in ICML2024.'
 date: 2024-2-10
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2402.07043'
