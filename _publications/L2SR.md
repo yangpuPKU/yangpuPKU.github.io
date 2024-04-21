@@ -2,6 +2,7 @@
 title: "L2SR: Learning to Sample and Reconstruct for Accelerated MRI via Reinforcement Learning"
 collection: publications
 permalink: /publication/L2SR
+excerpt: '[Arxiv version](https://arxiv.org/abs/2212.02190)'
 date: 2024-4-18
 venue: 'Inverse Problem'
 paperurl: 'https://iopscience.iop.org/article/10.1088/1361-6420/ad3b34'
