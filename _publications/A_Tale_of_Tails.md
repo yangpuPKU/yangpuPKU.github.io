@@ -2,10 +2,10 @@
 title: "A Tale of Tails: Model Collapse as a Change of Scaling Laws"
 collection: publications
 permalink: /publication/A_Tale_of_Tails
-excerpt: 'Under review as a conference paper in ICML2024.'
-date: 2024-2-10
-venue: 'Arxiv'
-paperurl: 'https://arxiv.org/abs/2402.07043'
+excerpt: '[Arxiv version](https://arxiv.org/abs/2402.07043)
+date: 2024-6
+venue: 'ICML2024'
+paperurl: 'https://proceedings.mlr.press/v235/dohmatob24b.html'
 citation: 'Dohmatob, E., Feng, Y., Yang, P., Charton, F., & Kempe, J. (2024). A Tale of Tails: Model Collapse as a Change of Scaling Laws. arXiv preprint arXiv:2402.07043.'
 ---
 
