@@ -1,7 +1,7 @@
 ---
 title: "Identifying average causal effect in regression discontinuity design with auxiliary data"
 collection: publications
-permalink: /publication/A_Tale_of_Tails
+permalink: /publication/Identifying_average_causal_effect
 excerpt: '[Arxiv version](https://arxiv.org/abs/2412.20840)'
 date: 2024-12-30
 venue: 'arXiv'
