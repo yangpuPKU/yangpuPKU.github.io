@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[download PDF version here](https://yangpupku.github.io/files/CV.pdf)
+
 Education
 ======
 * **Chongqing Nankai Middle School**<br>
