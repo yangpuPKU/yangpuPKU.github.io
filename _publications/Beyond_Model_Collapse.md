@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Beyond_Model_Collapse
 excerpt: '[Arxiv version](https://arxiv.org/abs/2406.07515)'
 date: 2024-6-11
-venue: 'Arxiv'
+venue: 'ICLR 2025'
 paperurl: 'https://openreview.net/forum?id=MQXrTMonT1'
 citation: 'Feng, Y., Dohmatob, E., Yang, P., Charton, F., & Kempe, J. (2024). Beyond Model Collapse: Scaling Up with Synthesized Data Requires Reinforcement. arXiv preprint arXiv:2406.07515.'
 ---
