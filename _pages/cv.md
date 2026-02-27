@@ -26,6 +26,10 @@ Work experience
   * ByteDance
   * Duties included: AI algorithm design
   * I am primarily responsible for designing algorithms for audio fingerprinting, which involves extracting fingerprint features, searching through a speech library, and parallel acceleration, among other tasks. My team utilizes contrastive learning and propose a new feature extraction model that is more suitable for audio data, resulting in faster retrieval speeds and higher accuracy.
+* Spring to Summer 2025: AI Algorithm Internship
+  * HiSilicon
+  * Duties included: AI algorithm design
+  * I was involved in forward-looking research on next-generation LLM architectures. The core objective of my research was to enhance the accuracy and inference speed of long-context language models. My work centered on exploring innovative approaches, including dLLMs and sparse attention mechanisms, to address key challenges in scaling model performance.
 
 Skills
 ======
