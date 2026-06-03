@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Researcher at the [Embodied Intelligence Research Center](https://finch.agibot.com/), [AgiBot](https://www.agibot.com/). I received my Ph.D. in Computational Mathematics from Peking University in 2026, advised by [Prof. Bin Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/).
+I am an Embodied Intelligence Algorithm Researcher at [AgiBot](https://www.agibot.com/)'s [Embodied Intelligence Research Center](https://finch.agibot.com/) (具身研究中心). I received my Ph.D. in Computational Mathematics from Peking University in 2026, advised by [Prof. Bin Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/).
 
 My research sits at the intersection of mathematics and applied artificial intelligence. I am broadly interested in embodied intelligence and robot learning, large language models and synthetic data, reinforcement learning, and inverse problems.
 

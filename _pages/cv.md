@@ -23,9 +23,9 @@ Education
 
 Work experience
 ======
-* **Researcher, Embodied Intelligence Research Center, AgiBot**<br>
+* **Embodied Intelligence Algorithm Researcher, AgiBot**<br>
   2026 - Present<br>
-  I work on embodied intelligence, robot learning, and foundation models for robotic manipulation.
+  I work at AgiBot's Embodied Intelligence Research Center (具身研究中心) on embodied intelligence, robot learning, and foundation models for robotic manipulation.
 * **AI Algorithm Internship, HiSilicon**<br>
   Spring to Summer 2025<br>
   I was involved in forward-looking research on next-generation LLM architectures. The core objective of my research was to enhance the accuracy and inference speed of long-context language models. My work centered on exploring innovative approaches, including diffusion language models and sparse attention mechanisms, to address key challenges in scaling model performance.
@@ -56,4 +56,3 @@ Awards
   * Peking University Summer Camp, Excellent camper (Admission to PKU)
   * China Mathematics Competition, First Prize
   * China Mathematics Olympiad, Silver Medal
-
