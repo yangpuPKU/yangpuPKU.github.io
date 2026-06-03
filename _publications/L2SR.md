@@ -6,6 +6,7 @@ excerpt: '[Arxiv version](https://arxiv.org/abs/2212.02190)'
 date: 2024-4-18
 venue: 'Inverse Problem'
 paperurl: 'https://iopscience.iop.org/article/10.1088/1361-6420/ad3b34'
+pub_category: rl_inverse
 citation: 'Yang, Pu, and Bin Dong. "L2SR: Learning to Sample and Reconstruct for accelerated MRI via reinforcement learning." Inverse Problems (2024).'
 ---
 

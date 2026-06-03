@@ -14,22 +14,24 @@ redirect_from:
 Education
 ======
 * **Chongqing Nankai Middle School**<br>
-  2021-2017<br>
+  2014 - 2017<br>
 * **School of Mathematical Sciences, Peking University**<br>
   B.S. in Mathematics, 2017 - 2021<br>
 * **School of Mathematical Sciences, Peking University**<br>
-  Ph.D. in Computational Mathematics, 2021 - Present<br>
+  Ph.D. in Computational Mathematics, 2021 - 2026<br>
+  Advisor: [Prof. Bin Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/)<br>
 
 Work experience
 ======
-* Spring 2021: AI Algorithm Internship
-  * ByteDance
-  * Duties included: AI algorithm design
-  * I am primarily responsible for designing algorithms for audio fingerprinting, which involves extracting fingerprint features, searching through a speech library, and parallel acceleration, among other tasks. My team utilizes contrastive learning and propose a new feature extraction model that is more suitable for audio data, resulting in faster retrieval speeds and higher accuracy.
-* Spring to Summer 2025: AI Algorithm Internship
-  * HiSilicon
-  * Duties included: AI algorithm design
-  * I was involved in forward-looking research on next-generation LLM architectures. The core objective of my research was to enhance the accuracy and inference speed of long-context language models. My work centered on exploring innovative approaches, including dLLMs and sparse attention mechanisms, to address key challenges in scaling model performance.
+* **Researcher, Embodied Intelligence Research Center, AgiBot**<br>
+  2026 - Present<br>
+  I work on embodied intelligence, robot learning, and foundation models for robotic manipulation.
+* **AI Algorithm Internship, HiSilicon**<br>
+  Spring to Summer 2025<br>
+  I was involved in forward-looking research on next-generation LLM architectures. The core objective of my research was to enhance the accuracy and inference speed of long-context language models. My work centered on exploring innovative approaches, including diffusion language models and sparse attention mechanisms, to address key challenges in scaling model performance.
+* **AI Algorithm Internship, ByteDance**<br>
+  Spring 2021<br>
+  I was primarily responsible for designing algorithms for audio fingerprinting, including fingerprint feature extraction, speech-library search, and parallel acceleration.
 
 Skills
 ======
@@ -54,5 +56,4 @@ Awards
   * Peking University Summer Camp, Excellent camper (Admission to PKU)
   * China Mathematics Competition, First Prize
   * China Mathematics Olympiad, Silver Medal
-
 

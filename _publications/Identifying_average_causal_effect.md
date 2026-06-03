@@ -6,6 +6,7 @@ excerpt: '[Arxiv version](https://arxiv.org/abs/2412.20840)'
 date: 2024-12-30
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2412.20840'
+pub_category: others
 citation: 'Feng, X., Hu, W., Yang, P., Li, T., & Zhou, X. H. (2024). Identifying average causal effect in regression discontinuity design with auxiliary data. arXiv preprint arXiv:2412.20840.'
 ---
 

@@ -6,6 +6,7 @@ excerpt: '[Arxiv version](https://arxiv.org/abs/2501.18962)'
 date: 2025-01-31
 venue: 'NeurIPS 2025 (Spotlight)'
 paperurl: 'https://arxiv.org/abs/2501.18962'
+pub_category: llm_synthetic
 citation: 'Yang, P., Feng, Y., Chen, Z., Wu, Y., & Li, Z. (2025). Spend Wisely: Maximizing Post-Training Gains in Iterative Synthetic Data Bootstrapping. arXiv preprint arXiv:2501.18962.'
 ---
 

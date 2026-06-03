@@ -6,6 +6,7 @@ excerpt: '[Arxiv version](https://arxiv.org/abs/2501.01834)'
 date: 2025-01-03
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2501.01834'
+pub_category: llm_synthetic
 citation: 'Yang, P., & Dong, B. (2025). MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning. arXiv preprint arXiv:2501.01834.'
 ---
 

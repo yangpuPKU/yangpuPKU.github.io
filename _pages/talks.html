@@ -11,6 +11,21 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+<h2>Selected Recent Talks</h2>
+
+{% assign recent_talks = site.talks | sort: "date" | reverse %}
+{% for post in recent_talks %}
+  {% assign talk_year = post.date | date: "%Y" %}
+  {% if talk_year >= "2024" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Group Seminars</h2>
+
+{% for post in recent_talks %}
+  {% assign talk_year = post.date | date: "%Y" %}
+  {% if talk_year < "2024" %}
+    {% include archive-single-talk.html %}
+  {% endif %}
 {% endfor %}

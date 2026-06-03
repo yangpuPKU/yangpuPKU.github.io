@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Pu Yang"
 title_separator          : "-"
 name                     : "Pu Yang"
-description              : "Pu Yang's Personal Website. PhD student at PKU"
+description              : "Pu Yang's Personal Website. Researcher at AgiBot Embodied Intelligence Research Center"
 url                      : "https://yangpupku.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yangpupku/yangpupku.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pu Yang"
   avatar           : "profile.png"
-  bio              : "Also: 杨埔<p>PhD student at School of Mathematical Sciences, PKU."
+  bio              : "Also: 杨埔<p>Researcher at AgiBot Embodied Intelligence Research Center."
   location         : "Beijing, China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
