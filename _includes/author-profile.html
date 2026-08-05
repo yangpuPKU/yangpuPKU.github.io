@@ -112,6 +112,14 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
+      {% if author.wechat %}
+        <li class="author__wechat">
+          <span class="author__wechat-trigger" tabindex="0" aria-describedby="author-wechat-tooltip">
+            <i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat
+          </span>
+          <span class="author__wechat-tooltip" id="author-wechat-tooltip" role="tooltip">WeChat ID: {{ author.wechat | escape }}</span>
+        </li>
+      {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
       {% endif %}
