@@ -25,7 +25,7 @@ Work experience
   2026 - Present<br>
   I am working at ModelBest's Embodied Intelligence Lab (具身智能实验室) on embodied AI foundation models, where I lead post-training.
 * **Embodied Intelligence Algorithm Researcher, AgiBot**<br>
-  Spring to Autumn 2026 - Present<br>
+  Spring to Autumn 2026<br>
   I work at AgiBot's Embodied Intelligence Research Center (具身研究中心) on embodied intelligence, robot learning, and foundation models for robotic manipulation.
 * **AI Algorithm Internship, HiSilicon**<br>
   Spring to Summer 2025<br>
